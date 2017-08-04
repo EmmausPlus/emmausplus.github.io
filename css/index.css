@@ -1,0 +1,9 @@
+.logo {
+    float: left;
+}
+nav {
+    display: inline-block;
+}
+#navigation {
+    display: inline-block;
+}
